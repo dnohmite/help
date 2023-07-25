@@ -4,7 +4,7 @@ In this tutorial you will learn about Ocean resizing suggestions and how to use 
 
 ## Relevance
 
-This tutorial is relevant for Kubernetes users.
+This tutorial is relevant for k8 users.
 
 ## Prerequisites
 
